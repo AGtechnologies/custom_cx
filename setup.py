@@ -15,7 +15,7 @@ requirements = parse_requirements("requirements.txt", session="")
 setup(
 	name='custom_cx',
 	version=version,
-	description='Customisation for Cx',
+	description='Customisation for CX3 Asia Pte Ltd',
 	author='AG Technologies Pte Ltd',
 	author_email='info@agtech.com.sg',
 	packages=find_packages(),
