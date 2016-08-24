@@ -3,9 +3,9 @@ from __future__ import unicode_literals
 from . import __version__ as app_version
 
 app_name = "custom_cx"
-app_title = "Custom Cx"
+app_title = "CX3 Asia Pte Ltd"
 app_publisher = "AG Technologies Pte Ltd"
-app_description = "Customisation for Cx"
+app_description = "Customisation for CX3 Asia Pte Ltd"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "info@agtech.com.sg"
