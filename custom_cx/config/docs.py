@@ -8,4 +8,4 @@ Configuration for docs
 # sub_heading = "Yes, you got that right the first time, everything"
 
 def get_context(context):
-	context.brand_html = "Custom Cx"
+	context.brand_html = "CX3 Asia Pte Ltd"
